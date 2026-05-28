@@ -2,9 +2,11 @@ import React from 'react'
 // import './Header.css'
 function Header() {
   return (
-    <header>
-        <h1>Hospital managemnet system</h1>
-    </header>
+    <>
+   
+    <h1>this is my first react message</h1>
+    <h2>why im not here</h2>
+     </>
   )
 }
 
